@@ -1,0 +1,8 @@
+pandas
+selenium
+beautifulsoup4
+scipy
+numpy
+scikit-learn
+yellowbrick
+matplotlib
